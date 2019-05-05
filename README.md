@@ -1,20 +1,24 @@
-# IoT Storage Experiment
+# 物联网数据存储与管理
 
-Spring 2017 @ HUST
+2019春季 @ 华中科技大学
 
-# Object Storage Systems
+# 课程涉及的工具环境
 
-* [OpenStack Swift](http://www.openstack.org/software/releases/ocata/components/swift)
-* [Ceph](https://ceph.com/)
+## 对象存储系统
+
 * [Minio](https://minio.io/)
+* [Ceph](https://ceph.com/)
+* [OpenStack Swift](http://www.openstack.org/software/releases/ocata/components/swift)
 
-# Object Storage Benchmark
+## 对象存储系统评测工具
 
-* [COSBench](https://github.com/intel-cloud/cosbench)
+* [COSBench](https://github.com/intel-cloud/cosbench) (Java)
+* [s3bench](https://github.com/igneous-systems/s3bench) (Go)
+* [benchio](https://github.com/giacomoguiulfo/benchio) (Go)
 
-# Applications
+## 对象存储系统应用范例
 
-* [ownCloud](https://owncloud.org/)
-* [Seafile](https://www.seafile.com/home/)
-* [Thumbor](http://thumbor.org/)
+* 个人云 [ownCloud](https://owncloud.org/)
+* 个人云 [Seafile](https://www.seafile.com/home/)
+* 在线相册 [Thumbor](http://thumbor.org/)
 
