@@ -2,6 +2,11 @@
 
 2019春季 @ 华中科技大学
 
+# 文件说明
+
+- [课程背景知识](iot-storage-experiment.pptx)
+- [实验报告模板](report-template.doc)
+
 # 课程涉及的工具环境
 
 ## 对象存储系统
