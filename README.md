@@ -6,6 +6,7 @@
 
 - [课程背景知识](iot-storage-experiment.pptx)
 - [实验报告模板](report-template.doc)
+- [实验内容说明](https://github.com/cs-course/obs-tutorial)
 
 # 课程涉及的工具环境
 
