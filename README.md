@@ -26,5 +26,5 @@
 
 * 个人云 [ownCloud](https://owncloud.org/)
 * 个人云 [Seafile](https://www.seafile.com/home/)
-* 在线相册 [Thumbor](http://thumbor.org/)
+* 图片管理 [Thumbor](http://thumbor.org/) [picfit](https://github.com/thoas/picfit) 
 
