@@ -19,12 +19,10 @@
 ## 对象存储系统评测工具
 
 * [COSBench](https://github.com/intel-cloud/cosbench) (Java)
-* [s3bench](https://github.com/igneous-systems/s3bench) (Go)
-* [benchio](https://github.com/giacomoguiulfo/benchio) (Go)
+* [s3bench](https://github.com/igneous-systems/s3bench), [benchio](https://github.com/giacomoguiulfo/benchio), [s3-benchmark](https://github.com/chinglinwen/s3-benchmark) (Go)
 
 ## 对象存储系统应用范例
 
-* 个人云 [ownCloud](https://owncloud.org/)
-* 个人云 [Seafile](https://www.seafile.com/home/)
-* 图片管理 [Thumbor](http://thumbor.org/) [picfit](https://github.com/thoas/picfit) 
+* 个人云 [Nextcloud](https://github.com/nextcloud), [Seafile](https://www.seafile.com/home/)
+* 图片管理 [Thumbor](http://thumbor.org/), [picfit](https://github.com/thoas/picfit) 
 
