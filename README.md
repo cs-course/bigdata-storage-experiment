@@ -1,6 +1,6 @@
 # 物联网数据存储与管理
 
-2019春季 @ 华中科技大学
+2020春季 @ 华中科技大学
 
 # 文件说明
 
@@ -18,11 +18,11 @@
 
 ## 对象存储系统评测工具
 
-* [COSBench](https://github.com/intel-cloud/cosbench) (Java)
-* [s3bench](https://github.com/igneous-systems/s3bench), [benchio](https://github.com/giacomoguiulfo/benchio), [s3-benchmark](https://github.com/chinglinwen/s3-benchmark) (Go)
+* [s3bench](https://github.com/igneous-systems/s3bench), [benchio](https://github.com/giacomoguiulfo/benchio), [s3-benchmark](https://github.com/chinglinwen/s3-benchmark) (Go语言)
+* [COSBench](https://github.com/intel-cloud/cosbench) (Java语言)
 
 ## 对象存储系统应用范例
 
 * 个人云 [Nextcloud](https://github.com/nextcloud), [Seafile](https://www.seafile.com/home/)
-* 图片管理 [Thumbor](http://thumbor.org/), [picfit](https://github.com/thoas/picfit) 
+* 图片管理 [Thumbor](http://thumbor.org/), [picfit](https://github.com/thoas/picfit)
 
