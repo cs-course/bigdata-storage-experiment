@@ -23,6 +23,6 @@
 
 ## 对象存储系统应用范例
 
-* 个人云 [Nextcloud](https://github.com/nextcloud), [Seafile](https://www.seafile.com/home/)
+* 个人云 [Nextcloud](https://github.com/nextcloud), [Seafile](https://www.seafile.com/home/), [zfile](https://github.com/zhaojun1998/zfile)
 * 图片管理 [Thumbor](http://thumbor.org/), [picfit](https://github.com/thoas/picfit)
 
