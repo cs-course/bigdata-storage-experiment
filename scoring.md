@@ -14,12 +14,12 @@
 
 ## Methods
 
-* Electronic version: Github, create your own accounts first.
-* ~~Paper version: Collected by class monitor.~~
+* Electronic version: Github, follow [this instruction](https://github.com/cs-course/iot-storage-experiment-assignment-2021).
+* Paper version: hand to WNLO C523.
 
 ## Important Dates
 
-Submission Date: **2020-06-01**
+Submission Date: **2020-06-21**
 
 ## Late Submission
 
@@ -33,4 +33,4 @@ Refer to:
 
 ## Grace Days
 
-**1 week** (**2020-06-08**)
+**1 week** (**2020-06-28**)

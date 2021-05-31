@@ -1,6 +1,6 @@
 # 物联网数据存储与管理
 
-2020春季 @ 华中科技大学
+2021春季 @ 华中科技大学
 
 # 文件说明
 
@@ -26,3 +26,16 @@
 * 个人云 [Nextcloud](https://github.com/nextcloud), [Seafile](https://www.seafile.com/home/), [zfile](https://github.com/zhaojun1998/zfile)
 * 图片管理 [Thumbor](http://thumbor.org/), [picfit](https://github.com/thoas/picfit)
 
+# 课程涉及的研究背景
+
+## 尾延迟为什么很重要？
+
+Dean J, Barroso L A. Association for Computing Machinery, 2013. The Tail at Scale[J]. Commun. ACM, 2013New York, NY, USA: , 56(2): 74–80.
+
+## 可以用什么方法来分析？
+
+Delimitrou C, Kozyrakis C. Association for Computing Machinery, 2018. Amdahl’s Law for Tail Latency[J]. Commun. ACM, 2018New York, NY, USA: , 61(8): 65–72.
+
+## 我们的一些初步探讨
+
+Su Y, Feng D, Hua Y, Shi Z. Understanding the latency distribution of cloud object storage systems[J]. Journal of Parallel and Distributed Computing, 2019, 128: 71–83.
