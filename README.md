@@ -21,6 +21,7 @@
 
 * [s3bench](https://github.com/igneous-systems/s3bench), [benchio](https://github.com/giacomoguiulfo/benchio), [s3-benchmark](https://github.com/chinglinwen/s3-benchmark) (Go语言)
 * [COSBench](https://github.com/intel-cloud/cosbench) (Java语言)
+* [s3-bench-rs](https://github.com/SKTT1Ryze/s3-bench-rs) (Rust语言)
 
 ## 对象存储系统应用范例
 
