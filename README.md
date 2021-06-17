@@ -7,6 +7,7 @@
 - [课程背景知识](iot-storage-experiment.pptx)
 - [实验报告模板](report-template.doc)
 - [实验内容说明](https://github.com/cs-course/obs-tutorial)
+  - 感谢 [@SKTT1Ryze](https://github.com/SKTT1Ryze) 同学提供[Rust语言版本实验环境](https://github.com/cs-course/obs-tutorial-rs)，欢迎更多同学参与！
 
 # 课程涉及的工具环境
 
