@@ -10,18 +10,18 @@
 2. **Please advanture by yourself** beyond portals from this repository.
 3. s3bench/benchio/COSBench
 
-# Submiting your report
+## Submiting your report
 
-## Methods
+### Methods
 
-* Electronic version: Github, follow [this instruction](https://github.com/cs-course/iot-storage-experiment-assignment-2021).
-* Paper version: hand to WNLO C523.
+* Electronic version: Github, follow [this instruction](https://github.com/cs-course/bigdata-storage-experiment-assignment-2022).
+* Paper version: hand to WNLO C523/B507.
 
-## Important Dates
+### Important Dates
 
-Submission Date: **2020-06-21**
+Submission Date: **2022-04-21**
 
-## Late Submission
+### Late Submission
 
 Refer to:
 
@@ -31,6 +31,6 @@ Refer to:
 4. [Penalties for Late Hand In](http://www.dcs.shef.ac.uk/intranet/teaching/public/assessment/latehandin.html)
 5. [How to Avoid Handing in Assignments Late](https://www.wikihow.com/Avoid-Handing-in-Assignments-Late)
 
-## Grace Days
+### Grace Days
 
-**1 week** (**2020-06-28**)
+**1 week** (**2022-04-28**)
