@@ -10,6 +10,11 @@
 
 ## 课程涉及的工具环境
 
+### 关于系统环境
+
+- [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
+  - 建议熟悉一下"1/13: 课程概览与 shell"与"1/14: Shell 工具和脚本"这两部分
+
 ### 对象存储系统
 
 - [Minio](https://minio.io/)
